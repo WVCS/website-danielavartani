@@ -1,3 +1,41 @@
-body {
-background-color:#78C3FB;
+body{
+ background-color:#554971;
 }
+h1{
+ color:#826AED;
+ font-size: 300%;
+ letter-spacing: 5px;
+ text-align: center;
+ top: 20;
+ martin-top: 80px;
+  
+}
+ul{
+ list-style-type: none;
+ background color: #826AED;
+ width: 100%;
+ overflow: hidden;
+ position: fixed;
+ text-align: center;
+ left: 0;
+ top: 0;
+ margin: 10;
+}
+li{
+ float: left;
+}
+li a{
+ display:block;
+ color: white;
+ text-decoration: none;
+ padding: 15px;
+ border-style: solid;
+ font-family: cursive, "Lucida Handwriting";
+}
+li a:hover {
+ background-color: antiquewhite;
+ color: black;
+}
+
+
+
